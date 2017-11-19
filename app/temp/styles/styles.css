@@ -1,0 +1,9 @@
+body {
+  background-color: #2c8bf5;
+  -webkit-columns: 300px 2;
+          columns: 300px 2;
+}
+
+.box a{
+    color: #ff0000;
+  }
